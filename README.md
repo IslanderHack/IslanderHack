@@ -18,9 +18,9 @@
 ## 🔧 Our Repositories & Links
 | Project | Description |
 |--------|-------------|
-| Wesbite: *(coming soon)* |
-| Assets: *(coming soon)* |
-| Submissions: *(coming soon)* |
+| Wesbite: *(coming soon)* | *(coming soon)*
+| Assets: *(coming soon)* | *(coming soon)*
+| Submissions: *(coming soon)* | *(coming soon)*
 
 ---
 
@@ -36,5 +36,5 @@ Maintained by TAMU–CC hackers.
 
 ---
 
-### 🌊 Stay connected!
+## 🌊 Stay connected!
 *(coming soon)*
