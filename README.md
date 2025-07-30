@@ -1,16 +1,40 @@
-## Hi there 👋
+# 🏝️ Welcome to IslanderHack!
 
-<!--
-**IslanderHack/IslanderHack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Official GitHub for **IslanderHack**, Texas A&M University - Corpus Christi’s  student hackathon 🌊
 
-Here are some ideas to get you started:
+## 🧠 About Us
+**IslanderHack** is a 3-day in-person hackathon hosted at **Texas A&M University–Corpus Christi**, where students come together to build tech projects, learn new skills, and meet other hackers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌴 What’s Happening
+- 💻 Hackathon Dates: September 19th - September 21st
+- 🌐 Website: *(coming soon)*
+- 📍 Location: Texas A&M University - Corpus Christi
+- 🎓 Open to: Texas A&M University students of all skill levels
+
+---
+
+## 🔧 Our Repositories & Links
+| Project | Description |
+|--------|-------------|
+| Wesbite: *(coming soon)* |
+| Assets: *(coming soon)* |
+| Submissions: *(coming soon)* |
+
+---
+
+## 🧑‍💻 Want to Help?
+Interested in helping build IslanderHack or joining the team?
+- Reach out via email: [IslanderHack@tamucc.edu]
+- Follow us on Instagram: *(coming soon)*
+
+---
+
+## 🦀 Built by Students
+Maintained by TAMU–CC hackers. 
+
+---
+
+### 🌊 Stay connected!
+*(coming soon)*
